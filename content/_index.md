@@ -4,7 +4,7 @@ toc: false
 layout: hextra-home
 ---
 
-{{< hextra/hero-badge link=/docs >}}
+{{< hextra/hero-badge link=docs >}}
   <div class="w-2 h-2 rounded-full bg-primary-400"></div>
   <span>Free for now</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
